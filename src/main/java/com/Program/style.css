@@ -1,0 +1,32 @@
+.mainBorder {
+    -fx-background-color: #2E3348;
+}
+
+.btnStyle {
+    -fx-background-color: white;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}
+
+.btnStyle:hover {
+    -fx-opacity: 80%;
+}
+
+.btnStyle:pressed {
+    -fx-background-color: #F39C63;
+}
+
+.styleFild {
+    -fx-border-width: 2px;
+    -fx-border-color: #F39C63;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.styleTable {
+    -fx-border-width: 3px;
+    -fx-border-color: #F39C63;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+}
+
