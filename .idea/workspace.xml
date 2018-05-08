@@ -91,6 +91,9 @@
       <find>book</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -139,6 +142,7 @@
     <option name="width" value="1346" />
     <option name="height" value="693" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -305,12 +309,12 @@
       <workItem from="1525704000730" duration="213000" />
       <workItem from="1525716560747" duration="18000" />
       <workItem from="1525764297722" duration="185000" />
-      <workItem from="1525795802859" duration="957000" />
+      <workItem from="1525795802859" duration="1251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98108000" />
+    <option name="totallyTimeSpent" value="98402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="733" extended-state="7" />
@@ -325,8 +329,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34437087" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34551495" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
